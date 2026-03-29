@@ -133,10 +133,11 @@ The current implementation establishes the foundational governance layer. The fo
 ## Contract Deployment Details
 
 ### Contract ID
->
+> CBCJGFXXFMDCCYM6KODIHQ3MZLSRZR54IV7NSINQSJTSW7AUYPVYUMXR
 
 ### Deployment Screenshot
 
-![Contract Deployment Screenshot](./assets/deployment_screenshot.png)
+![Contract Deployment Screenshot](<img width="1865" height="981" alt="image" src="https://github.com/user-attachments/assets/c3e99ea6-e5cb-4590-9d2c-ab93391209ff" />
+)
 
 ---
