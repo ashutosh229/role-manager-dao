@@ -129,3 +129,14 @@ The current implementation establishes the foundational governance layer. The fo
 
 10. **Governance Analytics & Reporting**  
     Emit structured events for every state transition to power off-chain analytics dashboards that track voter participation rates, proposal pass rates, and role churn over time.
+
+## Contract Deployment Details
+
+### Contract ID
+>
+
+### Deployment Screenshot
+
+![Contract Deployment Screenshot](./assets/deployment_screenshot.png)
+
+---
